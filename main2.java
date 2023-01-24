@@ -227,6 +227,7 @@ class TestClass
       dog temgdog  = (dog)Al.get(0);
 
         System.out.println(d1.name);
+
         System.out.println(temgdog.name);
 
 
